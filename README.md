@@ -1,6 +1,6 @@
 # movies_cubit_app
 
-A new Flutter project.
+A very basic example of calling rest api using BloC.
 
 ## Getting Started
 
